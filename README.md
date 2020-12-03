@@ -1,11 +1,11 @@
 # TIPAPPGWCCPREWORK
-# Pre-work - *Name of App Here*
+# Pre-work - *Tippsy*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tippsy** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Luai Baokbah**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
